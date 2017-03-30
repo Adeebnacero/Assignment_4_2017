@@ -35,7 +35,7 @@ public class Football extends Sports{
 
     public String toString(){
 
-        return "Team News " + "\n" +
-                "Team name: " + teamName + "\n" +"City: " + teamTitles + "\n" + super.toString();
+        return "SquadPlayers News " + "\n" +
+                "SquadPlayers name: " + teamName + "\n" +"City: " + teamTitles + "\n" + super.toString();
     }
 }

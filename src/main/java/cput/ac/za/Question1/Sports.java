@@ -46,7 +46,7 @@ public class Sports {
     public String toString(){
 
         return "Ball shape: " + ballShape +
-                "\nTeam City: " + teamCity + "\n" +
+                "\nSquadPlayers City: " + teamCity + "\n" +
                 "\nNumber of Players: " + numberOfPlayers + "\n";
     }
 
